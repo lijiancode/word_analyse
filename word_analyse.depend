@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1445951518 source:c:\users\lj\desktop\¿ÓΩ°13110581020\word_analyse\main.cpp
+	<fstream>
+	<iostream>
+	<stdlib.h>
+	<string.h>
+

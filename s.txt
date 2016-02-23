@@ -1,0 +1,19 @@
+#include <lijian>
+using namespace std;
+int main()
+{
+    int a,b,cc;
+    double q,w;
+    float t,y;
+    b=10;
+    cc=b++;
+    c>=b;
+    d--;
+    b=a-1;
+    q=100.00;
+    y=200000.44;
+    t=q+y;
+    void lijian();
+    return 0;
+};   
+
